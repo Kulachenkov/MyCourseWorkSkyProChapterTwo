@@ -8,6 +8,7 @@ public class MyCourseWorkSkyProChapterTwoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MyCourseWorkSkyProChapterTwoApplication.class, args);
+
     }
 
 }
